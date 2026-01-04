@@ -26,7 +26,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [My solution on GitHub Pages](https://andreipsarev.github.io/mortgag-calculator/)
+- Live Site URL: [My solution on GitHub Pages](https://andreipsarev.github.io/mortgage-calculator/)
 
 ## My process
 
